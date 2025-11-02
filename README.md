@@ -10,7 +10,7 @@
 
 Website portfolio ini dibuat sebagai tugas akhir praktikum Pemrograman Web. Website ini menampilkan informasi tentang diri saya, kemampuan bahasa pemrograman yang dikuasai, serta proyek-proyek yang pernah dikerjakan.
 
-## ✨ Fitur
+## 👍 Fitur
 
 - **Responsive Design** - Tampilan yang optimal di berbagai ukuran layar
 - **Modern UI/UX** - Desain yang bersih, modern, dan user-friendly
@@ -29,30 +29,12 @@ Website portfolio ini dibuat sebagai tugas akhir praktikum Pemrograman Web. Webs
   - CSS Animations & Transitions
   - Media Queries untuk responsive design
 
-## 📂 Struktur Proyek
-
-```
-Tugas Akhir Judul 1/
-│
-├── index.html              # Halaman utama
-├── style.css              # File styling utama
-├── style-experiment.css   # File styling eksperimen (branch alternatif)
-├── README.md              # Dokumentasi proyek
-│
-└── gambar/                # Folder aset gambar
-    ├── rayhan.jpg         # Foto profil
-    ├── ejurnal.png        # Screenshot proyek E-Journal
-    ├── movierating.png    # Screenshot proyek MovieRating
-    └── readify.png        # Screenshot proyek Readify
-```
-
-## 🚀 Cara Menggunakan
+## ? Cara Menggunakan
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/username/portfolio-rayhan.git
-cd portfolio-rayhan
+git clone (https://github.com/raygums/TugasAkhirPPW2.git)
 ```
 
 ### Jalankan Secara Lokal
@@ -119,12 +101,12 @@ Tambahkan card baru di section projects:
 ## 🌿 Branch
 
 - **`main`** - Branch utama dengan styling standar
-- **`styling-experiment`** - Branch untuk eksperimen styling dengan tema gradient modern
 
-### Mencoba Styling Eksperimen
+### Mencoba Buat Branch Baru
 
 ```bash
-git checkout styling-experiment
+git branch <nama-branch>
+git checkout <nama-branch>
 ```
 
 Styling eksperimen memiliki fitur:
@@ -134,19 +116,13 @@ Styling eksperimen memiliki fitur:
 - Animated elements
 - Circular profile photo
 
-## 📱 Responsive Breakpoints
-
-- **Desktop**: > 768px
-- **Tablet**: 481px - 768px
-- **Mobile**: < 480px
-
 ## 👨‍💻 Tentang Developer
 
 **Muhammad Rayhan Gumay**
-- 📧 Email: rayhangumay2004@gmail.com
-- 📍 Lokasi: Bandarlampung, Indonesia
-- 🎓 Mahasiswa Teknik Informatika - Universitas Lampung
-- 🎯 Konsentrasi: Rekayasa Perangkat Lunak (RPL)
+- Email: rayhangumay2004@gmail.com
+- Lokasi: Bandarlampung, Indonesia
+- Mahasiswa Teknik Informatika - Universitas Lampung
+- Konsentrasi: Rekayasa Perangkat Lunak (RPL)
 
 ## 📊 Proyek yang Ditampilkan
 
@@ -161,39 +137,3 @@ Platform diskusi mengenai film-film yang sedang tayang
 ### 3. Readify.id
 Website company profile yang profesional dan elegan
 - **Tech Stack**: React, Laravel, PostgreSQL
-
-## 📝 Workflow Git
-
-Proyek ini menggunakan workflow Git yang terstruktur:
-
-1. ✅ Inisialisasi repository
-2. ✅ Commit bertahap untuk setiap section
-3. ✅ Branching untuk eksperimen styling
-4. ✅ Merge branch setelah review
-5. ✅ Push ke GitHub dengan dokumentasi lengkap
-
-## 🤝 Kontribusi
-
-Saran dan masukan selalu diterima! Jika Anda menemukan bug atau ingin mengusulkan fitur baru:
-
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
-## 📄 Lisensi
-
-Project ini dibuat untuk keperluan akademik (Tugas Akhir Praktikum Pemrograman Web).
-
-## 🙏 Acknowledgments
-
-- Terima kasih kepada dosen pengampu mata kuliah Pemrograman Web
-- Icon emoji dari sistem operasi
-- Inspirasi desain dari berbagai portfolio modern
-
----
-
-⭐ **Jangan lupa beri star jika repository ini bermanfaat!**
-
-Made with ❤️ by Muhammad Rayhan Gumay
