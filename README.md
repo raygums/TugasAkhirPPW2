@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website - Muhammad Rayhan Gumay
+# Portfolio Website - Muhammad Rayhan Gumay
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -6,7 +6,7 @@
 
 > Website portfolio pribadi yang menampilkan profil, kemampuan, dan proyek-proyek yang telah dikerjakan.
 
-## 📋 Deskripsi
+## Deskripsi
 
 Website portfolio ini dibuat sebagai tugas akhir praktikum Pemrograman Web. Website ini menampilkan informasi tentang diri saya, kemampuan bahasa pemrograman yang dikuasai, serta proyek-proyek yang pernah dikerjakan.
 
